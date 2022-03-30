@@ -10,5 +10,5 @@ mango.addEventListener('click', function (event) {
 mango.addEventListener('dblclick', function (event) {
     mango.style.position = 'relative';
     mango.style.left = '0px';
-    mango.style.left = parseInt(mango.style.left) + 25 + 'px'
+    mango.style.left = 25 + 'px'
 })
